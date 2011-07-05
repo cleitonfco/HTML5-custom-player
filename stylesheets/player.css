@@ -8,6 +8,10 @@ section {
   text-align:left;
   margin:0 auto;
 }
+.alpha {
+  font-size:0.8em;
+  color:#e00;
+}
 .play, .volume-button {
   cursor: pointer;
 }
